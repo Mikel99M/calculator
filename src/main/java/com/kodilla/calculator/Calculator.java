@@ -7,6 +7,10 @@ class Kalkulator {
     }
 }
 
+class Random {
+
+}
+
 public class Calculator {
     public static void main(String[] args) {
         Kalkulator calculator = new Kalkulator();
